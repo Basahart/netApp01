@@ -2,7 +2,7 @@
 
 <h1>Caso de estudio Actividad 3. Resolver problemas con C#</h1>
 
-[![Badge Finalizado](https://img.shields.io/badge/STATUS-Finalizado-green)][![Badge C#](https://img.shields.io/badge/Leng-Javascript-yellow)]
+![Badge Finalizado](https://img.shields.io/badge/STATUS-Finalizado-green) ![Badge C#](https://img.shields.io/badge/Leng-Javascript-yellow)
 
 
 ![alt text](image.png)
