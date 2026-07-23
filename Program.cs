@@ -6,7 +6,7 @@ namespace ES172003671
     {
         static void Main(string[] args)
         {
-            
+            Console.Clear();
             Console.WriteLine("==========================================================");
             Console.WriteLine("|       Registro de datos Estudiante Universitario       |");
             Console.WriteLine("==========================================================\n");
@@ -46,17 +46,22 @@ namespace ES172003671
             // Reorganización del nombre del estudiante.
             string nombreReorganizado = apellidoPaterno + " " + apellidoMaterno + " " + nombre;
             
+            Console.WriteLine("\nPresiona cualquier tecla para continuar...");
+            Console.ReadKey();
+            Console.Clear();
+
             // Presentación de datos en pantalla
             Console.WriteLine("\n==========================================================");
-            Console.WriteLine("|                 Información Estudiante                 |");
+            Console.WriteLine("|               Información de Estudiante                |");
             Console.WriteLine("==========================================================\n");
             
-            Console.WriteLine("Nombre reorganizado: " + nombreReorganizado);
+            Console.WriteLine("Nombre: " + nombreReorganizado);
             Console.WriteLine("Edad actual: " + edadActual + " años");
             Console.WriteLine("Carrera en curso: " + carrera);
             Console.WriteLine("Promedio general: " + promedio);
             Console.WriteLine("Materias inscritas: " + materiasInscritas);
             Console.WriteLine("Horas de estudio semanales: " + horasEstudioSemanales + " horas");
+            Console.WriteLine("==========================================================\n");
             
             // Pausar consola para visualizar resultados*/
             Console.WriteLine("\nPresiona cualquier tecla para finalizar...");
