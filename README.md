@@ -1,6 +1,6 @@
 ﻿# netApp01
 
-<h1>Caso de estudio Actividad 3. Resolver problemas con C#</h1>
+<h1>Resolver problemas con C#</h1>
 
 ![Badge Finalizado](https://img.shields.io/badge/STATUS-Finalizado-green) [![Static Badge](https://img.shields.io/badge/C%23-maker?logoColor=yellow&label=Languaje&labelColor=Grey&color=yellow)](https://dotnet.microsoft.com/es-es/languages/csharp)
 
