@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\abalderas\\Programming\\net\\netApp01\\MiPrograma.csproj",
+      "projectUniqueName": "C:\\Users\\abalderas\\dotnet\\netApp\\netApp01\\MiPrograma.csproj",
       "projectName": "MiPrograma",
-      "projectPath": "d:\\abalderas\\Programming\\net\\netApp01\\MiPrograma.csproj",
+      "projectPath": "C:\\Users\\abalderas\\dotnet\\netApp\\netApp01\\MiPrograma.csproj",
       "packagesPath": "C:\\Users\\abalderas\\.nuget\\packages\\",
-      "outputPath": "d:\\abalderas\\Programming\\net\\netApp01\\obj\\",
+      "outputPath": "C:\\Users\\abalderas\\dotnet\\netApp\\netApp01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abalderas\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -25,9 +25,6 @@
       "originalTargetFrameworks": [
         "net10.0"
       ],
-      "sources": {
-        "https://api.nuget.org/v3/index.json": {}
-      },
       "frameworks": {
         "net10.0": {
           "framework": "net10.0",
